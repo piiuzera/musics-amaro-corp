@@ -1,0 +1,19 @@
+{
+  "name": "musics-amaro-corp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piiuzera/musics-amaro-corp.git"
+  },
+  "author": "Matheus Amaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piiuzera/musics-amaro-corp/issues"
+  },
+  "homepage": "https://github.com/piiuzera/musics-amaro-corp#readme"
+}
