@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/piiuzera/musics-amaro-corp/issues"
   },
-  "homepage": "https://github.com/piiuzera/musics-amaro-corp#readme"
+  "homepage": "https://github.com/piiuzera/musics-amaro-corp#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2"
+  }
 }
